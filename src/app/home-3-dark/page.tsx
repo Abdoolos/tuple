@@ -11,6 +11,8 @@ import TeamV2 from '@/components/team/TeamV2';
 import TestimonialV1 from '@/components/testimonial/TestimonialV1';
 import WhyChooseUsV4 from '@/components/whyChoose/WhyChooseUsV4';
 
+export const dynamic = 'force-dynamic';
+
 export const metadata = {
     title: "Dilabs - Home 3 Dark"
 };
