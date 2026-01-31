@@ -1,0 +1,40 @@
+{
+  "name": "dilabs-nextjs",
+  "version": "1.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.3",
+    "next": "15.2.3",
+    "next-intl": "^4.8.1",
+    "react": "^19.0.0",
+    "react-circular-progressbar": "^2.2.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^19.0.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-modal-video": "^2.0.2",
+    "react-paginate": "^8.3.0",
+    "react-photo-view": "^1.2.6",
+    "react-player": "^2.16.0",
+    "react-simple-scroll-up": "^0.2.3",
+    "react-toastify": "11.0.5",
+    "swiper": "^11.2.6"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.10",
+    "@types/node": "^22.13.11",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "@types/react-modal-video": "^1.2.3",
+    "eslint": "^9.22.0",
+    "eslint-config-next": "15.2.3",
+    "typescript": "^5.8.2"
+  }
+}
