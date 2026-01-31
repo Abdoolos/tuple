@@ -12,6 +12,10 @@
     "react-modal-video": {
       "react": "$react",
       "react-dom": "$react-dom"
+    },
+    "react-simple-scroll-up": {
+      "react": "$react",
+      "react-dom": "$react-dom"
     }
   },
   "dependencies": {
