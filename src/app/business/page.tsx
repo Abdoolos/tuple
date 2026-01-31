@@ -9,6 +9,8 @@ import ShowCaseV2 from "@/components/showCase/ShowCaseV2";
 import TeamV3 from "@/components/team/TeamV3";
 import WhyChooseUsV3 from "@/components/whyChoose/WhyChooseUsV3";
 
+export const dynamic = 'force-dynamic';
+
 export const metadata = {
     title: "Dilabs - Business"
 };

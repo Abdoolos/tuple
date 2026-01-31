@@ -12,6 +12,8 @@ import WhyChooseUsV1 from "@/components/whyChoose/WhyChooseUsV1";
 import BrandGrowthSection from "@/components/sections/BrandGrowthSection";
 import EngineeringLabSection from "@/components/sections/EngineeringLabSection";
 
+export const dynamic = 'force-dynamic';
+
 export const metadata = {
     title: "Dilabs - Creative Digital Agency React - NextJS Template"
 };

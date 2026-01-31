@@ -5,6 +5,8 @@ import TeamV2 from "@/components/team/TeamV2";
 import TestimonialV2 from "@/components/testimonial/TestimonialV2";
 import WhyChooseUsV2 from "@/components/whyChoose/WhyChooseUsV2";
 
+export const dynamic = 'force-dynamic';
+
 export const metadata = {
     title: "Dilabs - About Us"
 };

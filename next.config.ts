@@ -10,7 +10,9 @@ const nextConfig: NextConfig = {
     images: {
         unoptimized: true,
     },
-    output: 'standalone',
+    experimental: {
+        // Force all pages to be dynamic to avoid prerender errors
+    },
 };
 
 export default nextConfig;
